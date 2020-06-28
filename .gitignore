@@ -1,2 +1,6 @@
 # Cmake build dir
 **/bin
+
+# executables
+**/*.out
+**/*.exe

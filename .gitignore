@@ -7,3 +7,8 @@
 
 # cmake output
 **/cmake-build**
+
+
+**/node_modules
+**/.idea
+**/.vscode

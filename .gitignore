@@ -4,6 +4,7 @@
 # executables
 **/*.out
 **/*.exe
+**/*.class
 
 # cmake output
 **/cmake-build**
